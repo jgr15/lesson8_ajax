@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (Create an application that uses API to display movie information.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jgr15.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. (How to create an API key.)
