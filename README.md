@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 8th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jacob Roberts)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Create an application that uses API to display movie information.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to create an API key.)
+2. (How to retrieve infromation from other places based on their id.)
+3. (Code that retrieves movie infromation from a JSON object.)
